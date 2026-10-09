@@ -1,4 +1,6 @@
 (sym_lib_table
 	(version 7)
-	(lib (name "Custom_Components") (type "KiCad") (uri "${KICAD_USER_SYMBOL_DIR}/Custom_Components.kicad_symdir") (options "") (descr "Custom component symbols"))
+	(lib (name "Custom_IC") (type "KiCad") (uri "${KICAD_USER_SYMBOL_DIR}/Custom_IC.kicad_symdir") (options "") (descr "Custom IC and semiconductor symbols"))
+	(lib (name "Custom_Switches") (type "KiCad") (uri "${KICAD_USER_SYMBOL_DIR}/Custom_Switches.kicad_symdir") (options "") (descr "Custom switch symbols"))
+	(lib (name "Custom_Logos") (type "KiCad") (uri "${KICAD_USER_SYMBOL_DIR}/Custom_Logos.kicad_symdir") (options "") (descr "Custom logo graphics"))
 )
